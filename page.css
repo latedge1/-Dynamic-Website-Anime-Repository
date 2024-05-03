@@ -1,0 +1,22 @@
+.logo {
+    width: 167px;
+    cursor: pointer;
+    margin-left: 17px;
+}
+
+.body {
+    color: darkslategray;
+    background-color: darkslategray;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url(kemham.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-sizing: border-box;
+    padding-top: 3%;
+}
